@@ -86,3 +86,6 @@ ro.media.capture.noSensorLSC=1
 ro.media.panorama.defres=2592x1456
 ro.media.panorama.frameres=848x480
 ro.sf.lcd_density=240
+
+# HWA settings
+hwui.use.blacklist=true
