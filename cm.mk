@@ -3,6 +3,7 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 
 # Inherit PA stuff
 $(call inherit-product, vendor/pa/config/pa_common.mk)
+
 # Boot animation
 TARGET_BOOTANIMATION_NAME := vertical-480x800
 
